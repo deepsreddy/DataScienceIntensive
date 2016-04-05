@@ -1,0 +1,7 @@
+Captsone Project Ideas:
+
+1. Yelp data challenge: Build a recommendation system for a particular cuisine based on the Yelp data available at https://www.yelp.com/dataset_challenge/dataset. I would like to see if we can predict the quality of food and the service by exploring the relation between rating, reviews and %tips. 
+
+2. Human activity recognition based on smartphone data: Build a classifier to detect the type of human activity based on sensor data placed on a smart phone for which the data set is available on the UCI machine learning repository (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). 
+
+3. Application of deep learning technologies in hand written digit recognition: Use current deep learning tools (Theano) to build a convolutional neural network model to recognize the hand-written digits based on the MNIST data set (http://yann.lecun.com/exdb/mnist/index.html).     
